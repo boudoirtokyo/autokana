@@ -56,3 +56,5 @@ http://kurokabe.jp/
 
 長浜黒壁スクエアのクラス吹き体験教室システム
 http://kurokabe.jp/
+
+In use at [Boudoir Tokyo Day Spa](http://www.boudoirtokyo.com/jp/)
